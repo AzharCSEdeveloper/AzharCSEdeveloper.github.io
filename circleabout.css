@@ -1,0 +1,209 @@
+
+
+
+.biography li{
+    
+	 float:left;
+	 font-family:"montserrat-regular", sans-serif;
+	 padding: 12px 12px 12px 0px;
+	 margin-bottom:30px;
+     display: inline-block;
+	 line-height:1.5;
+	 font-size:24px ;
+	 color:  black;
+	position:relative;
+	text-align:center;
+	margin-left:5px;
+	padding:5px;
+	
+}
+
+.name{
+	 color:#ffffff
+}
+
+.biography{
+	
+	border:2px solid #89BDDF;
+	
+	float:right;
+	margin:4px;
+	margin-top:8rem;
+	height:70rem;
+	padding:10px;
+	border-radius:10%;
+	 box-shadow: 5px 10px #888888;
+	
+}
+
+.aboutpart{
+ 
+  font-family:"montserrat-regular", sans-serif;
+  color:black;
+ 
+	font-size:80px;
+	line-height:1.5;
+	padding:0px;
+	margin:0px;
+
+}
+.myphoto img{
+	border-radius:100%;
+	height:170px;
+	width:160px;
+	
+}
+.objectiveh h3{
+	float:left;
+	color:#ffffff  ;
+	font:Arial ,Helvetica ,sans-serif;
+	font-size:40px;
+    line-height:1.5;
+	
+	margin:10px;
+	margin-top:-750px;
+	padding:20px;
+}
+
+
+
+.objective p{
+	float:left;
+	
+    text-justify: inter-word;
+    margin-top:-680px;
+	padding-left: 40px;
+	padding-right: 40px;
+    position: relative;   
+    color:black ;
+    font-family: "montserrat-regular", sans-serif;
+    font-size: 1.6rem;
+    line-height: 2.0;
+    margin-bottom: 3.6rem;
+    }
+
+
+.working{
+	font:Arial ,Helvetica,sans-serif;
+	font-size:16px;
+	line-height:1.8;
+	text-align:justify;
+	text-justify:inline-word;
+	
+	float:left;
+	margin:-10px;
+	margin-top:0px;
+	
+	
+	padding:60px;
+}
+.workingh h3{
+		float:left;
+	font:Arial ,Helvetica ,sans-serif;
+	font-size:40px;
+	color:#ffffff;
+    line-height:1.2;
+	margin:-12px;
+	margin-top:-460px;
+	padding:10px
+	
+}
+.workingp p{
+	float:left;
+	color:BLACK
+	;
+	 text-align: justify;
+    text-justify: auto;
+	word-spacing:5px;
+	margin-top:-370px;
+	padding-left: 4px;
+	padding-right: 40px;
+	padding-top:-160px;
+	position: relative;   
+    color: text-align:justify;
+	text-justify:inline-word;
+    font-family: "montserrat-regular", sans-serif;
+    font-size: 1.4rem;
+    line-height: 2.2;
+    }
+
+.list-check{
+	
+ list-style-type:none;
+ list-style-position: inside;
+ 
+  
+}
+
+
+#list ul{
+	 font-weight: bold;
+	 position:relative;
+margin-left:-30px;
+margin-top:-220px;
+}
+
+                 
+
+
+.part1 li{
+	 
+	margin:10px;
+	padding:0px;
+	margin-top:4px;
+	padding-left:50px;
+	padding-top:-120px;
+	line-height:1.5;
+	
+	
+}
+
+.part2 li{
+	
+	margin-left:180px;
+	margin-top:-180px;
+	margin-bottom:40px;
+	padding:74px;
+	
+}
+
+.part3 li{
+	 
+	margin-left:360px;
+	margin-top:-290px;
+	margin-bottom:150px;
+	padding:74px;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
